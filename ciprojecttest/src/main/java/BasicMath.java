@@ -21,4 +21,18 @@ public class BasicMath{
 		}
 		return c;
 	}
+	
+	public double returnGreaterNum(double a, double b){
+		double c;
+		
+		if(a>b){
+			c = a;
+		}
+		else{
+			c = b;
+		}
+		
+		return c;
+		
+}
 }

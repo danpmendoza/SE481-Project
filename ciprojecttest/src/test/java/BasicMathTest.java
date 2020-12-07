@@ -29,4 +29,14 @@ public class BasicMathTest {
         }
 	}
 
+	
+	@Test
+	public void testReturnGreaterNum() {
+		try {
+			assertEquals("Greater Value: ", 3, _bm.returnGreaterNum(2,3),0);
+        }
+        catch (Exception e){
+
+        }
+	}
 }
