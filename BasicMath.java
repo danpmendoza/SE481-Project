@@ -1,17 +1,17 @@
 public class BasicMath{
 	
 	// from dev
-	public float add(float a, float b){
+	public double add(double a, double b){
 		
-		float c;
+		double c;
 		c = a + b;
 
 		return c;
 	}
 
-	public float returnLessNum( float a, float b){
+	public double returnLessNum( double a, double b){
 
-		float c;
+		double c;
 
 		if(a < b){
 			c = a;
