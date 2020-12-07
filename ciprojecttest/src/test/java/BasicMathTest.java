@@ -1,10 +1,9 @@
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 
-public class BasicMathTestTest2 {
+public class BasicMathTest {
 	
 	private BasicMath _bm = new BasicMath();
 	
