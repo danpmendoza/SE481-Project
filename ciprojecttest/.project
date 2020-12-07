@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/java/BasicMath.java</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/BasicMath.java</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
