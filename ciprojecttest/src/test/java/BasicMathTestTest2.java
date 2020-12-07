@@ -1,7 +1,8 @@
-package ciprojecttest;
+
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
 
 public class BasicMathTestTest2 {
 	
