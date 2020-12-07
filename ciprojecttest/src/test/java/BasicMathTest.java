@@ -10,7 +10,7 @@ public class BasicMathTest {
 	@Test
 	public void testTestAdd() {
 		try {
-            assertEquals("Sum value: ",5, _bm.add(2,3),0);
+            assertEquals("Sum value: ",6, _bm.add(2,3),0);
             assertEquals("Sum value: ",4, _bm.add(-3,7),0);
         }
         catch (Exception e){
