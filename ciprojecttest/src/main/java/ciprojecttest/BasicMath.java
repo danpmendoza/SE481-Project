@@ -1,3 +1,4 @@
+package ciprojecttest;
 public class BasicMath{
 	
 	// from dev
