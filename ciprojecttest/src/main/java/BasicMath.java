@@ -1,7 +1,6 @@
 
 public class BasicMath{
 	
-	// from dev
 	public double add(double a, double b){
 		
 		double c;
